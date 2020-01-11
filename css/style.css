@@ -1,0 +1,78 @@
+.jumbotron {
+	height: 700px;
+}
+.skill {
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+.skill>span {
+	display: block;
+	margin-bottom: 5px;
+	font-family: 'Poppins' sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	color: #444;
+}
+
+.skill .pro {
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.progresbar {
+	width: 600px;
+	height: 30px;
+	margin: auto;
+    background-color: #D5DBDB;
+    border-radius: 0px;
+}
+
+.progresbar .progres-html {
+	width: 500px;
+	height: 30px;
+	margin: auto;
+    background-color: #283747;
+    border-radius: 0px;
+    float: left;
+}
+
+.progresbar .progres-css {
+	width: 430px;
+	height: 30px;
+	margin: auto;
+    background-color: #283747;
+    border-radius: 0px;
+    float: left;
+}
+
+.progresbar .progres-javascript {
+	width: 350px;
+	height: 30px;
+	margin: auto;
+    background-color: #283747;
+    border-radius: 0px;
+    float: left;
+}
+
+.progresbar .persen {
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	padding-top: 5px;
+	left: 48%;
+	margin: auto;
+    color: #fff;
+    border-radius: 0px;
+}
+
+.ikon {
+	font-size: 50px;
+}
+
+
+
+
+
